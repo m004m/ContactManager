@@ -1,10 +1,10 @@
 db:
-  connectionProp: "{connectionString: 'http://localhost/8100-t', userName: 'user-t', password: 'pass-t'}"
+  connectionProp: "{connectionString: 'http://localhost/8100-config-server', userName: 'user-cs', password: 'pass-cs'}"
   host: localhost:8100t
   port: 8100-test
   
 my:
-    gretingMsg: hellot
+    gretingMsg: hellocs
     list:
-        values: onet,twot,threet  
+        values: onet,twot,three,four-cs 
   
