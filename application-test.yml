@@ -1,7 +1,6 @@
-db:
-  connectionProp: "{connectionString: 'http://localhost/8100-t-CS-Cloud', userName: 'user-t-CS-Cloud', password: 'pass-t-CS-Cloud'}"
-  host: localhost:8100t-CS-Cloud
-  port: 8100-test-CS-Cloud
+db.connectionProp: "{connectionString: 'http://localhost/8100-t-CS-Cloud', userName: 'user-t-CS-Cloud', password: 'pass-t-CS-Cloud'}"
+db.host: localhost:8100t-CS-Cloud
+db.port: 8100-test-CS-Cloud
   
 my:
     gretingMsg: hellot-CS-Cloud
