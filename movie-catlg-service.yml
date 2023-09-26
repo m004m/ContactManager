@@ -1,6 +1,6 @@
 db:
-  connectionProp: "{connectionString: 'http://localhost/8100-test-git', userName: 'user-test-git', password: 'pass-test-git'}"
-  host: localhost:8100-test-git-U
-  port: 8100-test-git-U
+  connectionProp: "{connectionString: 'http://localhost/8100-test-git-U', userName: 'user-test-git-U', password: 'pass-test-git-U'}"
+  host: localhost:8100-test-git-U-U
+  port: 8100-test-git-U-U
   
-my.list.values: one,two,thre,four,five-test-git-U
+my.list.values: one,two,thre,four,five-test-git-U-U
