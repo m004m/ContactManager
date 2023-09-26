@@ -1,6 +1,5 @@
 db.connectionProp: "{connectionString: 'http://localhost/8100-t-CS-Cloud', userName: 'user-t-CS-Cloud', password: 'pass-t-CS-Cloud'}"
-db.host: localhost-8100t-CS-Cloud
-db.port: 8100-test-CS-Cloud
+
   
 my.list.values: onet,twot,threet,Four-CS-Cloud  
 
