@@ -1,6 +1,5 @@
-db:
-  connectionProp: "{connectionString: 'http://localhost/8100-movie-catlg-service', userName: 'user-movie-catlg-service', password: 'pass-movie-catlg-service'}"
-  host: localhost:8100t-movie-catlg-service-git
-  port: 8100-movie-catlg-service-git
+db.connectionProp: "{connectionString: 'http://localhost/8100-movie-catlg-service', userName: 'user-movie-catlg-service', password: 'pass-movie-catlg-service'}"
+db.host: localhost:8100t-movie-catlg-service-git
+db.port: 8100-movie-catlg-service-git
   
 my.list.values: one,two,thre,four,five-user-movie-catlg-service-git
