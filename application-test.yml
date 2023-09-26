@@ -1,7 +1,6 @@
-db.connectionProp: "{connectionString: 'http://localhost/8100-t-CS-Cloud', userName: 'user-t-CS-Cloud', password: 'pass-t-CS-Cloud'}"
-
+db:
+  connectionProp: "{connectionString: 'http://localhost/8100-test-git', userName: 'user-test-git', password: 'pass-test-git'}"
+  host: localhost:8100-test-git
+  port: 8100-test-git
   
-my.list.values: onet,twot,threet,Four-CS-Cloud  
-
-
-  
+my.list.values: one,two,thre,four,five-test-git
